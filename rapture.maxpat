@@ -3910,7 +3910,7 @@
 										"followglobaltempo" : 0,
 										"formantcorrection" : 0,
 										"mode" : "basic",
-										"originallength" : [ 311471.09375, "ticks" ],
+										"originallength" : [ 193313.078125, "ticks" ],
 										"originaltempo" : 119.999977,
 										"pitchcorrection" : 0,
 										"quality" : "basic",
@@ -4627,7 +4627,7 @@
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 347.295288, 51.0, 125.0, 22.0 ],
 									"style" : "",
-									"text" : "tutorial"
+									"text" : "attract"
 								}
 
 							}
@@ -4656,7 +4656,7 @@
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 296.0, 441.0, 50.0, 22.0 ],
 									"style" : "",
-									"text" : "select"
+									"text" : "attract"
 								}
 
 							}
@@ -6108,7 +6108,7 @@
 							"modernui" : 1
 						}
 ,
-						"rect" : [ 922.0, 79.0, 938.0, 949.0 ],
+						"rect" : [ 923.0, 79.0, 938.0, 949.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -6135,7 +6135,6 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-63",
